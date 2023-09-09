@@ -8,6 +8,9 @@ class Directives:
     def ext_to_category(self, extension):
         return ''
 
+    def is_visitable_folder(self, folder):
+        pass
+
 
 '''
 
