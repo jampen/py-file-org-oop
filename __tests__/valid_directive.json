@@ -1,0 +1,7 @@
+{
+    "categories" : {
+        "images" : ["png", "jpeg", "jpg", "gif"],
+        "code" : ["py", "h", "c"]
+    },
+    "folders" : ["myfolder/"]
+}
