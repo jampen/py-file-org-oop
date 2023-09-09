@@ -3,7 +3,10 @@ import json
 
 class Directives:
     def load(self, filepath):
-        pass
+        return False
+
+    def ext_to_category(self, extension):
+        return ''
 
 
 '''

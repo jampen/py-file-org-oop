@@ -1,0 +1,7 @@
+{
+    "not categories" : {
+        "images" : ["png", "jpeg", "jpg", "gif"],
+        "code" : ["py", "h", "c"]
+    },
+    "not folders" : ["myfolder/"]
+}
